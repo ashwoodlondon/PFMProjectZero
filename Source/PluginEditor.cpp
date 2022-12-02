@@ -3,6 +3,8 @@
 
     This file contains the basic framework code for a JUCE plugin editor.
 
+    A CHANGE TO CHECKOUT GIT FUNCTION WITHIN VS
+
   ==============================================================================
 */
 
